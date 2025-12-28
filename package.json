@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "testing practice with jest",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayx3000/testing-practice.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rayx3000/testing-practice/issues"
+  },
+  "homepage": "https://github.com/rayx3000/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.5",
+    "jest": "^30.2.0"
+  }
+}
